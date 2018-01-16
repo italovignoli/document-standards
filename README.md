@@ -1,2 +1,4 @@
-# document-standards
-Comparison of Document Standard Formats
+# Introduction
+
+Document standard formats
+
